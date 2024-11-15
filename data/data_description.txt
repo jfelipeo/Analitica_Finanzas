@@ -1,0 +1,38 @@
+
+Data Description:
+
+- ID: Unique identifier for each record.
+- CreditScore: The credit score of the individual.
+- DebtRatio: The ratio of debt to total assets.
+- Assets: Total assets of the individual.
+- Age: The age of the individual.
+- NumberOfDependents: The number of dependents of the individual.
+- NumberOfOpenCreditLinesAndLoans: The number of open credit lines and loans.
+- MonthlyIncome: The monthly income of the individual.
+- NumberOfTimesPastDue: The number of times the individual has been past due.
+- EmploymentLength: Number of years employed.
+- HomeOwnership: Type of home ownership (Rent, Own, Mortgage).
+- Education: Education level (High School, Bachelor, Masters, PhD).
+- MaritalStatus: Marital status (Single, Married, Divorced, Widowed).
+- YearsAtCurrentAddress: Number of years at current address.
+- NoPaidPerc: Proportion of the payments that consumer has not made in all their credits.
+- NewLoanApplication: Amount of money the costumer has requested to the institution.
+
+Descripción de Datos:
+
+- ID: Identificador único para cada registro.
+- CreditScore: Puntuación crediticia del individuo.
+- DebtRatio: Proporción de deuda respecto a los activos totales.
+- Assets: Total de activos del individuo.
+- Age: Edad del individuo.
+- NumberOfDependents: Número de dependientes del individuo.
+- NumberOfOpenCreditLinesAndLoans: Número de líneas de crédito abiertas y préstamos.
+- MonthlyIncome: Ingreso mensual del individuo.
+- NumberOfTimesPastDue: Número de veces que el individuo ha tenido pagos atrasados.
+- EmploymentLength: Años de empleo.
+- HomeOwnership: Tipo de propiedad de vivienda (Alquiler, Propia, Hipoteca).
+- Education: Nivel educativo (Secundaria, Licenciatura, Maestría, Doctorado).
+- MaritalStatus: Estado civil (Soltero, Casado, Divorciado, Viudo).
+- YearsAtCurrentAddress: Años en la dirección actual.
+- NoPaidPerc: Proporción de pagos que el consumidor no ha realizado en todos sus créditos.
+- NewLoanApplication: Cantidad de dinero solicitada por el cliente a la institución.
