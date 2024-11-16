@@ -1,4 +1,4 @@
-ID,CreditScore,DebtRatio,Assets,Age,NumberOfDependents,NumberOfOpenCreditLinesAndLoans,MonthlyIncome,NumberOfTimesPastDue,EmploymentLength,HomeOwnership,Education,MaritalStatus,YearsAtCurrentAddress,NoPaidPerc,Riesgo
+ID,CreditScore,DebtRatio,Assets,Age,NumberOfDependents,NumberOfOpenCreditLinesAndLoans,MonthlyIncome,NumberOfTimesPastDue,EmploymentLength,HomeOwnership,Education,MaritalStatus,YearsAtCurrentAddress,NoPaidPerc,RiesgoPagAtrazo
 1,384,0.0165600716526475,37950,20,0,2,17355,9,28,Mortgage,Bachelor,Divorced,18,0.19656637,Riesgo medio
 2,516,0.1388254602981935,22909,46,5,8,7175,13,0,Rent,Bachelor,Married,9,0.2644376,Riesgo alto
 3,638,0.3911487278164464,126521,80,5,7,1910,6,25,Rent,Bachelor,Single,9,0.28756785,Riesgo medio
